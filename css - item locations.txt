@@ -1,0 +1,3 @@
+header text size: #header .logo
+
+banner text size: #banner > .inner .content p {
