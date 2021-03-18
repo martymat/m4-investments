@@ -1,3 +1,5 @@
 header text size: #header .logo
 
-banner text size: #banner > .inner .content p {
+banner text size: #banner > .inner .content p
+
+menu hamburger button: #header nav a[href="#menu"]:after
